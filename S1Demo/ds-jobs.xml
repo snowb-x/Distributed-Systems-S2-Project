@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- job list for ds-sim, 14-Feb, 2022 @ MQ - client-server -->
+<jobs>
+	<type name="medium" minRunTime="1" maxRunTime="3600" populationRate="100" />
+	<job id="0" type="medium" submitTime="22" estRunTime="923" cores="4" memory="4000" disk="4900" />
+	<job id="1" type="medium" submitTime="25" estRunTime="1325" cores="3" memory="600" disk="7600" />
+	<job id="2" type="medium" submitTime="709" estRunTime="1255" cores="1" memory="2700" disk="6000" />
+	<job id="3" type="medium" submitTime="2866" estRunTime="17" cores="1" memory="800" disk="8100" />
+	<job id="4" type="medium" submitTime="3590" estRunTime="750" cores="1" memory="1300" disk="3400" />
+	<job id="5" type="medium" submitTime="4153" estRunTime="1400" cores="1" memory="1000" disk="8200" />
+	<job id="6" type="medium" submitTime="5779" estRunTime="161" cores="1" memory="2900" disk="5100" />
+	<job id="7" type="medium" submitTime="5919" estRunTime="1167" cores="4" memory="800" disk="4900" />
+	<job id="8" type="medium" submitTime="6748" estRunTime="4912" cores="1" memory="2000" disk="4600" />
+	<job id="9" type="medium" submitTime="10201" estRunTime="5484" cores="1" memory="1600" disk="1600" />
+	<job id="10" type="medium" submitTime="13181" estRunTime="1912" cores="1" memory="300" disk="3200" />
+	<job id="11" type="medium" submitTime="16583" estRunTime="190" cores="1" memory="600" disk="2200" />
+	<job id="12" type="medium" submitTime="17275" estRunTime="261" cores="2" memory="800" disk="600" />
+	<job id="13" type="medium" submitTime="20021" estRunTime="2093" cores="1" memory="1700" disk="5100" />
+	<job id="14" type="medium" submitTime="22311" estRunTime="1288" cores="1" memory="2500" disk="2100" />
+	<job id="15" type="medium" submitTime="24715" estRunTime="4124" cores="1" memory="1300" disk="2300" />
+	<job id="16" type="medium" submitTime="28284" estRunTime="1581" cores="1" memory="1500" disk="4000" />
+	<job id="17" type="medium" submitTime="29444" estRunTime="159" cores="1" memory="500" disk="5600" />
+	<job id="18" type="medium" submitTime="29716" estRunTime="3929" cores="4" memory="4096" disk="4000" />
+	<job id="19" type="medium" submitTime="33194" estRunTime="1466" cores="1" memory="3300" disk="500" />
+	<job id="20" type="medium" submitTime="34984" estRunTime="1327" cores="1" memory="3400" disk="7800" />
+	<job id="21" type="medium" submitTime="38170" estRunTime="4385" cores="1" memory="1500" disk="2400" />
+	<job id="22" type="medium" submitTime="40729" estRunTime="68" cores="1" memory="3800" disk="7700" />
+	<job id="23" type="medium" submitTime="41295" estRunTime="40" cores="1" memory="2200" disk="4700" />
+	<job id="24" type="medium" submitTime="41601" estRunTime="2563" cores="1" memory="1200" disk="4900" />
+	<job id="25" type="medium" submitTime="43606" estRunTime="4096" cores="1" memory="500" disk="700" />
+	<job id="26" type="medium" submitTime="46531" estRunTime="1528" cores="1" memory="2800" disk="4600" />
+	<job id="27" type="medium" submitTime="47713" estRunTime="329" cores="1" memory="600" disk="4300" />
+	<job id="28" type="medium" submitTime="48013" estRunTime="13" cores="3" memory="1300" disk="1000" />
+	<job id="29" type="medium" submitTime="49282" estRunTime="3438" cores="1" memory="1800" disk="5600" />
+	<job id="30" type="medium" submitTime="52963" estRunTime="1098" cores="1" memory="2500" disk="5000" />
+	<job id="31" type="medium" submitTime="54390" estRunTime="1139" cores="1" memory="1000" disk="2200" />
+	<job id="32" type="medium" submitTime="55770" estRunTime="492" cores="1" memory="3200" disk="1400" />
+	<job id="33" type="medium" submitTime="57419" estRunTime="437" cores="1" memory="2700" disk="3200" />
+	<job id="34" type="medium" submitTime="58168" estRunTime="4377" cores="1" memory="300" disk="5500" />
+	<job id="35" type="medium" submitTime="60692" estRunTime="1236" cores="1" memory="1500" disk="1400" />
+	<job id="36" type="medium" submitTime="62762" estRunTime="236" cores="1" memory="3000" disk="6300" />
+	<job id="37" type="medium" submitTime="63112" estRunTime="2734" cores="4" memory="3200" disk="4400" />
+	<job id="38" type="medium" submitTime="66650" estRunTime="3488" cores="1" memory="2400" disk="2700" />
+	<job id="39" type="medium" submitTime="69648" estRunTime="439" cores="1" memory="3000" disk="4000" />
+	<job id="40" type="medium" submitTime="70969" estRunTime="2896" cores="1" memory="1000" disk="1400" />
+	<job id="41" type="medium" submitTime="72887" estRunTime="93" cores="1" memory="3000" disk="2300" />
+	<job id="42" type="medium" submitTime="73142" estRunTime="1302" cores="1" memory="1700" disk="7700" />
+	<job id="43" type="medium" submitTime="76366" estRunTime="1015" cores="1" memory="600" disk="4800" />
+	<job id="44" type="medium" submitTime="78001" estRunTime="549" cores="1" memory="3100" disk="2800" />
+	<job id="45" type="medium" submitTime="78489" estRunTime="3277" cores="2" memory="2700" disk="1400" />
+	<job id="46" type="medium" submitTime="81702" estRunTime="187" cores="1" memory="400" disk="2300" />
+	<job id="47" type="medium" submitTime="82287" estRunTime="3144" cores="1" memory="2500" disk="5800" />
+	<job id="48" type="medium" submitTime="85147" estRunTime="1022" cores="1" memory="2700" disk="1500" />
+	<job id="49" type="medium" submitTime="86561" estRunTime="419" cores="1" memory="1500" disk="4100" />
+</jobs>

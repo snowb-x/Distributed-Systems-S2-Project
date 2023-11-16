@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- system information generated for ds-sim@MQ, 14-Feb, 2022 @ MQ - client-server -->
+<system>
+	<servers>
+		<server type="ant" limit="1" bootupTime="60" hourlyRate="0.10" cores="4" memory="4096" disk="256000" />
+	</servers>
+</system>
